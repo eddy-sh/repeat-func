@@ -1,0 +1,23 @@
+{
+  "name": "repeat-func",
+  "version": "0.1.0",
+  "description": "Repeat a function N times using higher order functions",
+  "main": "src/index.js",
+  "type": "module",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/repeat-func.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eddy-sh/repeat-func.git"
+  },
+  "author": "Eddy Schauman-Haigh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eddy-sh/repeat-func/issues"
+  },
+  "homepage": "https://github.com/eddy-sh/repeat-func#readme"
+}
