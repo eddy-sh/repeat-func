@@ -4,7 +4,9 @@ Avoid using loops with the power of higher order functions!
 
 `repeat-func` lets you pass in a function and the number of times you want to call it. 
 
-There are zero dependencies and 100% test coverage including edge cases. Find a bug? Submit a PR! Want another abstraction? Open an issue!
+There are zero dependencies and 100% test coverage including edge cases. 
+
+Find a bug? Submit a PR! Want another abstraction? Open an issue!
 
 ### How to use
 
