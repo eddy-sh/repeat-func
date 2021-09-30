@@ -1,6 +1,6 @@
 {
   "name": "repeat-func",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Repeat a function N times using higher order functions",
   "main": "src/index.js",
   "type": "module",
