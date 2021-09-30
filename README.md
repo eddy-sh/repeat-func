@@ -10,7 +10,7 @@ Find a bug? Submit a PR! Want another abstraction? Open an issue!
 
 ### How to use
 
-```
+```javascript
 import { repeatFunc, repeatAsyncFunc } from 'repeat-func';
 
 const helloWorld = () => {
