@@ -23,7 +23,7 @@ const addOne = (n) => {
   return n += 1;
 }
 
-repeatFunc (10) (addOne, 0);        // 10
+repeatFunc (10) (addOne, 0);         // 10
 repeatFunc (10) (addOne, [1, 2, 3]); // 11, 12, 13
 
 const asyncAddOne = async (n) => {
